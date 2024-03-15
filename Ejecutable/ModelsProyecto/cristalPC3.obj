@@ -1,0 +1,19 @@
+# This file uses centimeters as units for non-parametric coordinates.
+
+mtllib cristalPC3.mtl
+g default
+v -2.934937 0.734080 -0.488649
+v -2.934937 0.910467 -0.235401
+v -2.934937 0.910467 -0.488649
+v -2.934937 0.734080 -0.235401
+vn -1.000000 0.000000 0.000000
+vn -1.000000 0.000000 0.000000
+vn -1.000000 0.000000 0.000000
+vn -1.000000 0.000000 0.000000
+vn -1.000000 0.000000 0.000000
+vn -1.000000 0.000000 0.000000
+s off
+g cristalPecera:Object_3polySurface1480
+usemtl cristalPecera:phong1SG
+f 1//1 2//2 3//3
+f 2//4 1//5 4//6
